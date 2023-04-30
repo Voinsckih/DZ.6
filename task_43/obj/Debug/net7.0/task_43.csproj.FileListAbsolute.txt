@@ -1,0 +1,15 @@
+A:\Git\REP2403\DZ.6\task_43\bin\Debug\net7.0\task_43.exe
+A:\Git\REP2403\DZ.6\task_43\bin\Debug\net7.0\task_43.deps.json
+A:\Git\REP2403\DZ.6\task_43\bin\Debug\net7.0\task_43.runtimeconfig.json
+A:\Git\REP2403\DZ.6\task_43\bin\Debug\net7.0\task_43.dll
+A:\Git\REP2403\DZ.6\task_43\bin\Debug\net7.0\task_43.pdb
+A:\Git\REP2403\DZ.6\task_43\obj\Debug\net7.0\task_43.csproj.AssemblyReference.cache
+A:\Git\REP2403\DZ.6\task_43\obj\Debug\net7.0\task_43.GeneratedMSBuildEditorConfig.editorconfig
+A:\Git\REP2403\DZ.6\task_43\obj\Debug\net7.0\task_43.AssemblyInfoInputs.cache
+A:\Git\REP2403\DZ.6\task_43\obj\Debug\net7.0\task_43.AssemblyInfo.cs
+A:\Git\REP2403\DZ.6\task_43\obj\Debug\net7.0\task_43.csproj.CoreCompileInputs.cache
+A:\Git\REP2403\DZ.6\task_43\obj\Debug\net7.0\task_43.dll
+A:\Git\REP2403\DZ.6\task_43\obj\Debug\net7.0\refint\task_43.dll
+A:\Git\REP2403\DZ.6\task_43\obj\Debug\net7.0\task_43.pdb
+A:\Git\REP2403\DZ.6\task_43\obj\Debug\net7.0\task_43.genruntimeconfig.cache
+A:\Git\REP2403\DZ.6\task_43\obj\Debug\net7.0\ref\task_43.dll
